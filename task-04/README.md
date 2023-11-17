@@ -1,0 +1,2 @@
+# Competative Programming
+it has almost taken for 4 days for me to complete this task. As in 1st sem I have learned python so it was some what easy,For 1st day I have completed only 4 questions that were easy for me. The remaining 6 has taken a lot of time. I have found some difficuilites in building the logics of that questions. I have taken some reference from google and try to solve those questions.
