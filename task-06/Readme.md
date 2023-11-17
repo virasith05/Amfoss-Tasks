@@ -1,0 +1,2 @@
+While doing this task i felt some difficult as i got some issues while starting the bot, but i rectified it by taking reference from google.
+I got problem while setting up the python virtual environment. I have taken reference fromm google and chatgpt.
